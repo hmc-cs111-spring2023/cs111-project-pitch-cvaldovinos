@@ -4,9 +4,9 @@
 
 _At a high level, what do you most want to get out of this project, and why?_
 
-I want to be able to create something that I can appreciate the value of so that I can get a clear sense of confidence in that I can use the skills I have learned from this class to create something useful.
+At a high level, I would like to feel that I can apply the skills I have learned from this class to design and implement other DSLs after having finished this project. While this might not be something that I need to do, I would appreciate having a clearer sense of what the process is like for implementing a DSL of my own design than I currently have. This would allow me to come away from this class feeling that I can create things which I appreciate the value of, and thus I will have a new skill that I can later use if needed.
 
-This is sort of a run on sentence so I will fix this. However, many classes require a set final project or exams which while it can be useful to make, it does not provide the sense of satisfaction. Also, it deels like I can make something that is much more abstract but that is why I appreciate the fact that this project is from scratch, with us designing our own concepts and setting our own learning expectations.
+Many classes require doing a predefined final project or exams to test skills and though these can be useful methods for evaluating the students' grasp of key concepts, it does not provide the sense of satisfaction and feeling of truly understanding the value of knowing those concepts. Also, this project allows us to make something that is much more abstract and that is why I appreciate the fact that this project is from scratch, with us designing our language, choosing the concepts we would like to work on, and setting our own learning expectations.
 
 ## Concepts / skills
 
@@ -16,9 +16,9 @@ like to work on, as part of your project (for example, other things related to D
 you have come across, or topics from other classes)? Why are you interested in working on
 these things?_
 
-I think I would like to work on understanding external DSLs, for the PicoBot assignment I experienced many difficulties so I felt more pressured to stick to what I was more confident in and implement an internal DSL. Thus, I am somewhat biased towards challenging myself to take on an external DSL approach for this project so that I can ensure I understand what that implementation entails. I think that even conceptually I had some more difficulty understanding how external DSLs work so I think that by implementing one I will be able to really clear up and demysticize my understanding of external DSLs.
+I would like to work on external DSLs. While we have convered these conceptually in class, I found myself more challenged understanding how they work and what it would look like to implement one. Even for the PicoBot assignment, I experienced many difficulties so I felt pressured by time to use an internal DSL as that is what I felt I had a clearer understaning on and that I could confidently work with. 
 
-Maybe write another paragraph to separate what concepts/skils I would like to work on, either in or out of class then discussing why I am interested in working on these things.
+Thus, I am somewhat biased towards challenging myself to take on an external DSL approach for this project so that I can ensure I understand what that implementation entails. Since I had difficulties understanding how external DSLs work, I think that by implementing one I will be able to really clear up and demysticize my understanding of external DSLs. However, I will first need to review the lessons on external DSLs, such as "Programs, interpreters, and compilers", to clear up any background information I will need going into beginning my implementation.
 
 ## Time management plan
 
@@ -43,7 +43,7 @@ other people in the class?_
 
 To make sure that I can give consistent and actionable feedback to other people in the class, I will make sure that I look at their work relative to their plan and what recent changes have been made. While we often like to fram the work of others relative to that of ours, this is not always helpful. In fact, it can be particularly negative for a project like this where we each are working on nonlinear scales. Also, reflecting on the question of Concepts / Skills, a concept which I may have found intutitive may have been more of a struggle for others. Keeping these factors in mind, I think I can provide more consistent, useful feedback to others. 
 
-To ensure that my feedback is actionable, thinking back to the discussions we had at the beginning of the semester, I think it's always important to provide the feedback in a respectful manner such that the other is receptive towards it and that the criticism is clear so that way the other person has clear understanding of what you reccommend and they can decide whether they want to edit that aspect or not.
+To ensure that my feedback is also actionable, thinking back to the discussions we had at the beginning of the semester, I think it's always important to provide the feedback in a respectful manner such that the other is receptive towards it. Secondly, I aim to provide criticism that is clear so that way the other person has clear understanding of what I am reccommending and they can decide whether they want to edit that aspect or not.
 
 ## Success
 
