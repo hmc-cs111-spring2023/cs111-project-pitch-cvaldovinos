@@ -84,10 +84,7 @@ _How big an idea is this? How ambitious is this project?_
 
 I think this project is not too ambitious for the remainder of the semester that we have to work on it. However, it is a very big idea and I think that based on the experience with the PicoBot DSL experiment, I may encounter roadblocks which I am accounting for because while I would like to test out new designs, my primary goal would be to get the functionality of Excel and Google sheets so that I can address the needs I outlined of users.
 
-Outlining the criteria I would score myself based on what I currently plan on designing:
-- A: Implements new language design and handles errors in a very explicit way that is clearer than the current ambiguous errors users often see.
-- A-: Allows for argument inputting to differ from standard practices, implements new design decisions which are unique and have described benefits for users.
-- B+: Meets the needs of users and allows for performing calculations in a manner which does not require a much different background than being able to use Excel/Google Sheets.
+More clearly, I would like to: Meet the needs of users and allows for performing calculations in a manner which does not require a much different background than being able to use Excel/Google Sheets. Then getting into the challenges I have set for myself, I would like to build upon this implementation and try out new design decisions, such as allowing for argument inputting to differ from standard practices in Excel/Google Sheets, and handle errors in a more explicit manner than the current ambiguous errors users see.
 
 ### Benefits and drawbacks
 
